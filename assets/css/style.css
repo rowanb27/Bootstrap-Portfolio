@@ -33,6 +33,7 @@ footer {
 
 nav {
     margin: 0em 0em 2em 0em;
+    color: #ffffff;
 }
 
 #ab {
@@ -41,6 +42,7 @@ nav {
    font-weight: bold;
    margin: auto;
    font-size: 32px;
+   font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 #p1 {
